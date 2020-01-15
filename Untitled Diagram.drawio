@@ -1,1 +1,109 @@
-<mxfile host="www.draw.io" modified="2020-01-15T08:27:28.477Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0" version="12.5.3" etag="Tkj4ldFH-gv1JZ01upzD" type="github"><diagram id="bOnSM8E5HkQJfOaflIpn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-15T08:36:48.391Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0" etag="WY3z885Qn880jAU_4a6P" version="12.5.3" type="github">
+  <diagram id="bOnSM8E5HkQJfOaflIpn" name="Page-1">
+    <mxGraphModel dx="2236" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="XthkA14ZtX5KBDELYpsS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-19" target="XthkA14ZtX5KBDELYpsS-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <UserObject label="WebUI Shipment Creation on Existing Inbound Order" link="https://jira.int.kn/browse/TCL-3" id="XthkA14ZtX5KBDELYpsS-19">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="380" y="180" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="WebUI Inbound Order Creation" TCL-2="https://jira.int.kn/browse/TCL-2" link="https://jira.int.kn/browse/TCL-2" id="XthkA14ZtX5KBDELYpsS-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="380" y="90" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="WebUI Putaway Directed" link="https://jira.int.kn/browse/TCL-6" id="XthkA14ZtX5KBDELYpsS-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="700" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Staging Location Assignment for Inbound Shipment" link="https://jira.int.kn/browse/TCL-20" id="XthkA14ZtX5KBDELYpsS-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="380" y="270" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="WebUI Pallet Receiving" link="https://jira.int.kn/browse/TCL-7" id="XthkA14ZtX5KBDELYpsS-29">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="300" y="460" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="WebUI Inbound Shipment Completion" link="https://jira.int.kn/browse/TCL-14" id="XthkA14ZtX5KBDELYpsS-30">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="380" y="830" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="RF Pallet&amp;nbsp; Receiving&amp;nbsp;" link="https://jira.int.kn/browse/TCL-10" id="XthkA14ZtX5KBDELYpsS-31">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="460" y="457.5" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://jira.int.kn/browse/TCL-4" id="XthkA14ZtX5KBDELYpsS-34">
+          <mxCell style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-28" target="XthkA14ZtX5KBDELYpsS-29">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="20" y="780" as="sourcePoint"/>
+              <mxPoint x="70" y="730" as="targetPoint"/>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" link="https://jira.int.kn/browse/TCL-21" id="XthkA14ZtX5KBDELYpsS-35">
+          <mxCell style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-28" target="XthkA14ZtX5KBDELYpsS-31">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="470" y="330" as="sourcePoint"/>
+              <mxPoint x="70" y="730" as="targetPoint"/>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="RF Putaway Directed" link="https://jira.int.kn/browse/TCL-11" id="XthkA14ZtX5KBDELYpsS-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="460" y="700" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="XthkA14ZtX5KBDELYpsS-48">
+          <mxCell style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-21" target="XthkA14ZtX5KBDELYpsS-30">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="360" y="1027.5" as="sourcePoint"/>
+              <mxPoint x="440" y="970" as="targetPoint"/>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="XthkA14ZtX5KBDELYpsS-49">
+          <mxCell style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-41" target="XthkA14ZtX5KBDELYpsS-30">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="520" y="1027.5" as="sourcePoint"/>
+              <mxPoint x="450" y="969" as="targetPoint"/>
+              <Array as="points"/>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="XthkA14ZtX5KBDELYpsS-50">
+          <mxCell style="endArrow=classic;html=1;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-29" target="XthkA14ZtX5KBDELYpsS-21">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="160" y="620" as="sourcePoint"/>
+              <mxPoint x="360" y="708" as="targetPoint"/>
+              <Array as="points"/>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="XthkA14ZtX5KBDELYpsS-51">
+          <mxCell style="endArrow=classic;html=1;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-31" target="XthkA14ZtX5KBDELYpsS-41">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="500" y="610" as="sourcePoint"/>
+              <mxPoint x="500" y="660" as="targetPoint"/>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="XthkA14ZtX5KBDELYpsS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="XthkA14ZtX5KBDELYpsS-20" target="XthkA14ZtX5KBDELYpsS-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="140" as="sourcePoint"/>
+            <mxPoint x="460" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
