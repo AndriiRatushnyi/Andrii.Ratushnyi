@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T06:41:30.648Z" agent="5.0 (Windows)" etag="VZLZFBVx9xT5IL0_21dE" version="13.10.3" type="github"><diagram id="ly4MDSIOVdC90xhhTguV" name="Page-1">7VnZcpswFP0aP7bDYjA8OsRNFydNx+00eZSRwEoFYmRh7H59hRE7TkhiEjeTJ0tXC9I59+oeySPdCbYXDESrSwoRGWkK3I7085GmaYatip/Ussssk9zgMwwzU8WwwH+RNCrSGmOI1rWOnFLCcVQ3ujQMkctrNsAYTerdPErqX42Aj1qGhQtI2/obQ76SVtW0y4bPCPsr+WlLm2QNAcg7y52sVwDSpGLSZyPdYZTyrBRsHURS8HJcsnGfDrQWC2Mo5H0GeJstjKc3OMFnirW4/KX8iJ0PWjbLBpBYbnjqcsrkivkuh0EsPkqLcUCyDvrZBjGOBVBzsETkmq4xxzQUXZaUcxpUOkwJ9tMGTiNhXfGAiIoqijTmBIfIKahThFEuSIxF24M7VQv8hOMhGiDOdqKLHDC2jGyI9LmcgaQkUJemVYU6U9qAdBm/mLhEVRQksI8AWdVbeCIovExWKeMr6tMQkFlpPWM0DiGCEpWyz5ymMO7xu0Oc72TIgJjTOrpoi/lNOvyjIWu3lZbzrZx5X9nJikdDLidUzYKMdLH3UyH2RmPmontAGMvgBcxH/D6wlG5uGSKA4019IUenatyKhyuULDFqEVjSkyKarDBHiwjsEUjESVinwsOEOJSkYSPG6p7naa4r7GvO6B9UaYHm0jTMjtgJMIR7t+hm6HnhMlZq4aLq7XhRtZcMGKvFwtc4xB3H0qNYGAAqffzaUNmDQNVwWGggC467HNbSlrp5JD+c2KcGbi5C3gK6ln1q4KpvB9zTOxdUo4VuW4SEcJpKZFFzCVivsduAspFrBBhsV5EUafU2lxFppRQV+1quKl5DRRzgq8KH0UFHbustNuQXrikWOyndQa+7Q1HPp8j2KUdVNXtzIqvhV1ZjogyI1kR7lym2/QwvMk/Hi56iZ+si+mHR/Qqear876hEcVWtn6pFmEoHWGcQbUfTT4iLBHp9/v8ibxKcqrR0Dvl2JOR3KhP5XLkEYA5J3WrLmsOZkjTARyYXXA6OekUIaokb6kiYg7wCu8EFUvXm3LgddqbEeAgNcHyYN6tVJR+7r8mF7qNyntZVFB7fOl9n8nda+erGTVeUlFY2mvx29qKr6qQlGrf30cYwT9JrRu/RxTxAUR5HIuu+R9qAznMAJ2uf2QAiO1odQq9AE1lH2vOvhbYrjEBgK961j2PHma3Ug2JQpx0Owj3I+KQT15jNgB4Sq2oFhYTw+iJP+ibznebQE6QXlqWdQb8aGIKh5TGj53xwP5QzDGIqf9kPtYaHlTH+2cf+P6Wi+Vhr2YGyIavk/YXZlKv9t1Wf/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-04T09:10:07.153Z" agent="5.0 (Windows)" etag="gulJNmJ75Urp4WClmT2r" version="13.10.3" type="github">
+  <diagram id="ly4MDSIOVdC90xhhTguV" name="Page-1">
+    <mxGraphModel dx="2842" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fvxduAXiwiB08SMU0QuC-10" value="Junior" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-140" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvxduAXiwiB08SMU0QuC-20" value="&lt;div&gt;SwiftLOG&lt;/div&gt;&lt;div&gt;KN Core Manual&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="-250" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fvxduAXiwiB08SMU0QuC-21" value="&lt;div&gt;CIEL FW/FD&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fvxduAXiwiB08SMU0QuC-24" value="&lt;div&gt;SwiftLOG&lt;/div&gt;&lt;div&gt;Project support&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="-250" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-1" value="&lt;div&gt;SwiftLOG&lt;/div&gt;&lt;div&gt;Testing Automation&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-250" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-2" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fvxduAXiwiB08SMU0QuC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="440" as="sourcePoint" />
+            <mxPoint x="1680" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-3" value="Newcmer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-5" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="-1" as="sourcePoint" />
+            <mxPoint x="1680" y="-1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1320" as="sourcePoint" />
+            <mxPoint x="360" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-7" value="&amp;nbsp;SwiftLOG Expert - level 1; Jira and QMetry - confident user " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="393" y="20" width="1277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-9" value="Middle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-140" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-10" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6fR9PWwe6Vml2NNr3BCg-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="880" as="sourcePoint" />
+            <mxPoint x="1680" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-11" value="Senior" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-12" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6fR9PWwe6Vml2NNr3BCg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="1280" as="sourcePoint" />
+            <mxPoint x="1680" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1319.9999999999995" as="sourcePoint" />
+            <mxPoint x="920" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="1319.9999999999995" as="sourcePoint" />
+            <mxPoint x="1320" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
