@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T16:55:58.507Z" agent="5.0 (Windows)" etag="DFVO0Sk99BgC30recNB8" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-06T11:04:42.772Z" agent="5.0 (Windows)" etag="i2ElmtCjW14WilbtzHG-" version="14.1.8" type="github">
   <diagram id="ly4MDSIOVdC90xhhTguV" name="Page-1">
     <mxGraphModel dx="2591" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -73,26 +73,29 @@
             <mxPoint x="1360" y="-210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-1" value="Scrum - Basic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-1" value="Scrum - Basic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="540" y="20" width="750" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-2" value="Story Validation / Verification - assisted (can explain process)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-2" value="Story Validation / Verification - assisted (can explain process)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="950" y="80" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-3" value="CAT - assisted (can explain process)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-3" value="CAT - assisted (can explain process)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="950" y="120" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-5" value="Clear communication on daily meeting, Outlook events, Corporate and team policies&amp;nbsp;&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-5" value="Clear communication on daily meeting, Outlook events, Corporate and team policies, ISTQB fundation " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry y="390" width="1670" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-8" value="Katalon Studio - level 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-8" value="Katalon Studio - level 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-9" value="Java - level 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-9" value="Java - level 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="130" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-TpeNITcfCAAyTC0CNA-10" value="Test Automation - level 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="o-TpeNITcfCAAyTC0CNA-10" value="BY Core TA - assisted" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="180" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vtfD7wpbm-6Hu6kyPNYN-1" value="&amp;nbsp;SwiftLOG Expert - level 1; Jira and QMetry - confident user " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="835" width="1230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
