@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T11:04:42.772Z" agent="5.0 (Windows)" etag="i2ElmtCjW14WilbtzHG-" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T08:45:12.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="T5FT1Vxv_rHr4SL7hFlf" version="14.2.4" type="github">
   <diagram id="ly4MDSIOVdC90xhhTguV" name="Page-1">
-    <mxGraphModel dx="2591" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             <mxPoint x="1680" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6fR9PWwe6Vml2NNr3BCg-3" value="Newcmer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="6fR9PWwe6Vml2NNr3BCg-3" value="Newcomer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-140" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6fR9PWwe6Vml2NNr3BCg-5" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -94,7 +94,7 @@
         <mxCell id="o-TpeNITcfCAAyTC0CNA-10" value="BY Core TA - assisted" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="180" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vtfD7wpbm-6Hu6kyPNYN-1" value="&amp;nbsp;SwiftLOG Expert - level 1; Jira and QMetry - confident user " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="vtfD7wpbm-6Hu6kyPNYN-1" value="&amp;nbsp;SwiftLOG Expert - level 1; Jira and QMetry - confident user " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="440" y="835" width="1230" height="30" as="geometry" />
         </mxCell>
       </root>
