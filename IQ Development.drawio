@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:06:00.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IH6O34CNj5ewtQPU7E95" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T15:58:26.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="W_yxw_02pEfDo_iEv8FX" version="14.2.6" type="github">
   <diagram id="ly4MDSIOVdC90xhhTguV" name="Page-1">
     <mxGraphModel dx="2378" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="-vzh8exEHkXwTWowG-WA-15" value="Development process understanding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="920" y="1110" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rz55PEiRWAHF8nvDxhTz-1" value="Following instructions/guides" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Rz55PEiRWAHF8nvDxhTz-1" value="Following instructions/guides" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="920" y="230" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
