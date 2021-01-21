@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T09:22:22.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7exsSdwLpjYYNDLoXGEA" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T10:06:00.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IH6O34CNj5ewtQPU7E95" version="14.2.5" type="github">
   <diagram id="ly4MDSIOVdC90xhhTguV" name="Page-1">
     <mxGraphModel dx="2378" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,47 +97,50 @@
         <mxCell id="vtfD7wpbm-6Hu6kyPNYN-1" value="&amp;nbsp;SwiftLOG Expert - level 2; Jira and QMetry - confident user " style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="440" y="835" width="1230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-1" value="EDI Basic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-1" value="EDI Basic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="180" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-3" value="ISTQB Agile Tester&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-3" value="ISTQB Agile Tester&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="460" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-4" value="Confident DB usage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-4" value="Confident DB usage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="500" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-5" value="Mentoring" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-5" value="Mentoring" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="550" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-6" value="Problem Localization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-6" value="Problem Localization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="600" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-7" value="Autonomy - Verification/Validation/CAT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-7" value="Autonomy - Verification/Validation/CAT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="650" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-8" value="Project support assisted 1.5m-2m" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-8" value="Project support assisted 1.5m-2m" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="700" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-9" value="Presentation skills" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-9" value="Presentation skills" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="920" y="750" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-10" value="Supervision -&amp;nbsp;&lt;span style=&quot;font-size: 13px&quot;&gt;Verification/Validation/CAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-10" value="Supervision -&amp;nbsp;&lt;span style=&quot;font-size: 13px&quot;&gt;Verification/Validation/CAT&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="910" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-11" value="Test Analysis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-11" value="Test Analysis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="960" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-12" value="Project support assisted 4m-5m" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-12" value="Project support assisted 4m-5m" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="920" y="1010" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-13" value="Test Strategy/Levels understanding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-13" value="Test Strategy/Levels understanding" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1160" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-14" value="Code reading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-14" value="Code reading" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1060" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-vzh8exEHkXwTWowG-WA-15" value="Development process understanding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="-vzh8exEHkXwTWowG-WA-15" value="Development process understanding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="920" y="1110" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz55PEiRWAHF8nvDxhTz-1" value="Following instructions/guides" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="920" y="230" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
