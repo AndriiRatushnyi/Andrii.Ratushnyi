@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T15:47:28.172Z" agent="5.0 (Windows)" etag="DCl-ehsmmIqCR-8774JW" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T15:56:13.502Z" agent="5.0 (Windows)" etag="57kXHBIZ6vSOGddgUvTH" version="14.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1673" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="6u9HRy79YRFUqpu26OF2-16" value="IT TA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="90" y="931" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="6u9HRy79YRFUqpu26OF2-17" value="Development" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="6u9HRy79YRFUqpu26OF2-17" value="Dev. team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="100" y="682.5" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6u9HRy79YRFUqpu26OF2-18" value="BU MT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
